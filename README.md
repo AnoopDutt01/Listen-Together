@@ -43,9 +43,7 @@ Want to get up and running quickly? Follow these steps:
 
 - [Clone the repository](https://help.github.com/articles/cloning-a-repository/) to your local device.
 
-  ```sh
-  git clone https://github.com/aryan-mehrabi/listen-together
-  ```
+
 
 - Set up your [Supabase Database](https://supabase.com/docs/guides/database) and Auth with [Social Logins](https://supabase.com/docs/guides/auth/social-login)
 - Set up your `.env` file using the recommendations in the `.env.example` file.
@@ -57,9 +55,6 @@ Want to get up and running quickly? Follow these steps:
 
 That's it! You should now be able to access the app at http://localhost:3000
 
-## 🙇 Author
-
-- [Aryan](https://www.linkedin.com/in/aryan-mehrabi/)
 
 ## License
 
